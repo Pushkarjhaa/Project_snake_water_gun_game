@@ -1,4 +1,4 @@
-# project1
+# snakeWatergunGame_Project1
 snake water gun game!
 import random
 
